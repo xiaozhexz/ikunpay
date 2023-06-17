@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Industry / 医疗 / normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Industry-/-医疗-/-normal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(2.000000, 2.000000)" stroke="#212121">
+            <path d="M26.6939806,1.5 L2.30601937,1.5 C2.23504107,1.5 2.16415228,1.50503791 2.09388734,1.51507576 C1.27378633,1.63223305 0.703937847,2.39203102 0.821095134,3.21213203 L4.14721552,26.4949747 C4.39353989,28.2192453 5.87026243,29.5 7.61203875,29.5 L21.3879613,29.5 C23.1297376,29.5 24.6064601,28.2192453 24.8527845,26.4949747 L28.1789049,3.21213203 C28.1889427,3.1418671 28.1939806,3.0709783 28.1939806,3 C28.1939806,2.17157288 27.5224077,1.5 26.6939806,1.5 Z" id="Rectangle-8"></path>
+            <rect id="Rectangle-7" x="8.5" y="0.5" width="1" height="3"></rect>
+            <rect id="Rectangle-7-Copy" x="20.5" y="0.5" width="1" height="3"></rect>
+            <path d="M14.2197266,29.7910156 L14.2197266,32.5546875 C16.1676432,39.9147135 20.219401,43.5947266 26.375,43.5947266 C32.530599,43.5947266 36.5823568,39.9147135 38.5302734,32.5546875" id="Path-33"></path>
+            <circle id="Oval" cx="38.5" cy="26.5" r="6.5"></circle>
+        </g>
+    </g>
+</svg>

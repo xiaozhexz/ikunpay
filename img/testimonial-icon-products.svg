@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Product Icon / On Light / 8 normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="6.29268293" width="36.7073171" height="26.2195122" rx="1"></rect>
+    </defs>
+    <g id="Product-Icon-/-On-Light-/-8-normal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(3.000000, 8.000000)">
+            <rect id="Rectangle-45" stroke="#484848" fill="#FFFFFF" x="6.79268293" y="0.5" width="35.7073171" height="25.2195122" rx="1"></rect>
+            <g id="Rectangle-45">
+                <rect stroke="#202020" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="6.79268293" width="35.7073171" height="25.2195122" rx="1"></rect>
+                <rect stroke="#FFFFFF" stroke-width="2" x="-1" y="5.29268293" width="38.7073171" height="28.2195122" rx="1"></rect>
+            </g>
+            <g id="Group" transform="translate(10.487805, 12.585366)" stroke="#202020" stroke-linejoin="round">
+                <polyline id="Path-11" points="4.00031858 0.608886234 0.354589761 4.26146149 15.4868573 4.26146149"></polyline>
+                <polyline id="Path-11" transform="translate(7.920724, 11.874198) scale(-1, -1) translate(-7.920724, -11.874198) " points="4.00031858 10.0479106 0.354589761 13.7004859 15.4868573 13.7004859"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

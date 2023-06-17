@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Product Icon / On Light / 8 chose</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F3FDFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="6" width="36.7073171" height="26.2195122" rx="1"></rect>
+    </defs>
+    <g id="Product-Icon-/-On-Light-/-8-chose" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-49" transform="translate(3.000000, 8.000000)">
+            <rect id="Rectangle-45" stroke="#45C3DD" fill="#FFFFFF" x="6.5" y="0.5" width="35.7073171" height="25.2195122" rx="1"></rect>
+            <g id="Rectangle-45">
+                <rect stroke="#23B5D3" stroke-width="1" stroke-linejoin="square" fill="url(#linearGradient-1)" fill-rule="evenodd" x="0.5" y="6.5" width="35.7073171" height="25.2195122" rx="1"></rect>
+                <rect stroke="#FFFFFF" stroke-width="2" x="-1" y="5" width="38.7073171" height="28.2195122" rx="1"></rect>
+            </g>
+            <polyline id="Path-11" stroke="#23B5D3" stroke-linejoin="round" points="14.6457288 13 11 16.6525753 26.1322676 16.6525753"></polyline>
+            <polyline id="Path-11" stroke="#23B5D3" stroke-linejoin="round" transform="translate(18.566134, 24.826288) scale(-1, -1) translate(-18.566134, -24.826288) " points="14.6457288 23 11 26.6525753 26.1322676 26.6525753"></polyline>
+        </g>
+    </g>
+</svg>

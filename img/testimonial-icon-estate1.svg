@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Industry / 建筑 / chose</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-72.5605528%" y1="-24.5630278%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F3FDFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="-77.4040419%" x2="283.772848%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#EBFCFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Industry-/-建筑-/-chose" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(4.000000, 5.000000)" stroke="#23B5D3">
+            <rect id="Rectangle-43" fill="#FFFFFF" x="7.16666667" y="0.5" width="23.1860465" height="36.0731707" rx="1"></rect>
+            <rect id="Rectangle-43" fill="url(#linearGradient-1)" x="19.547619" y="8.1" width="19.4651163" height="28.4684178" rx="1"></rect>
+            <rect id="Rectangle-43" fill="url(#linearGradient-2)" x="0.5" y="18.55" width="12.9534884" height="18.0118824" rx="1"></rect>
+            <rect id="Rectangle-44" fill="#FFFFFF" x="29.5909091" y="11.6219512" width="5.51162791" height="2.80237649" rx="1"></rect>
+            <rect id="Rectangle-44" fill="#FFFFFF" x="29.5909091" y="17.6463415" width="5.51162791" height="2.80237649" rx="1"></rect>
+            <rect id="Rectangle-44" fill="#FFFFFF" x="29.5909091" y="23.6707317" width="5.51162791" height="2.80237649" rx="1"></rect>
+            <rect id="Rectangle-44" fill="#FFFFFF" x="3.22727273" y="21.7939024" width="3.65116279" height="2.80237649" rx="1"></rect>
+            <rect id="Rectangle-44" fill="#FFFFFF" x="3.22727273" y="27.354878" width="3.65116279" height="2.80237649" rx="1"></rect>
+            <rect id="Rectangle-44" fill="#FFFFFF" x="9.59090909" y="3.2804878" width="4.58139535" height="2.80237649" rx="1"></rect>
+            <rect id="Rectangle-44" fill="#FFFFFF" x="9.59090909" y="8.84146341" width="4.58139535" height="2.80237649" rx="1"></rect>
+        </g>
+    </g>
+</svg>
