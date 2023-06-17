@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>duojishanghuxitong</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#AAB3D3" offset="0%"></stop>
+            <stop stop-color="#DBDEEB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="122.013541%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#F8F8F8" offset="0%"></stop>
+            <stop stop-color="#ABB3D0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-18.7447411%" id="linearGradient-3">
+            <stop stop-color="#AAB3D3" offset="0%"></stop>
+            <stop stop-color="#DBDEEB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="20191107-聚合存管" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-聚合存管banner1" transform="translate(-828.000000, -637.000000)">
+            <g id="duojishanghuxitong" transform="translate(830.000000, 638.000000)">
+                <g>
+                    <path d="M12.1897842,9.05757138 L23.7924485,16.5837128 C23.9851932,16.7087379 24.0564743,16.9964688 23.9516593,17.2263778 C23.9150539,17.306671 23.8597625,17.3726236 23.7924485,17.4162872 L12.1897842,24.9424286 C12.0714444,25.0191905 11.9285556,25.0191905 11.8102158,24.9424286 L0.207551457,17.4162872 C0.0148068273,17.2912621 -0.0564742782,17.0035312 0.0483406516,16.7736222 C0.0849461118,16.693329 0.140237517,16.6273764 0.207551457,16.5837128 L11.8102158,9.05757138 C11.9285556,8.98080954 12.0714444,8.98080954 12.1897842,9.05757138 Z" id="Rectangle-15-Copy" stroke="url(#linearGradient-1)" stroke-width="2"></path>
+                    <path d="M11.8933137,5 L22.8496579,12.1069019 L23,12.7137676 L22.8496579,12.8930981 L11.8933137,20 L11.5348889,20 L0.578544577,12.8930981 L0.428202522,12.2862324 L0.578544577,12.1069019 L11.5348889,5 L11.8933137,5 Z" id="Rectangle-15-Copy-3" fill-opacity="0.7" fill="url(#linearGradient-2)"></path>
+                    <path d="M12.1414436,3.2175651e-14 L23.7441079,7.52614145 L23.9033187,8.16880644 L23.7441079,8.35871578 L12.1414436,15.8848572 L11.7618751,15.8848572 L0.159210805,8.35871578 L-1.47243329e-13,7.71605079 L0.159210805,7.52614145 L11.7618751,2.37587727e-14 L12.1414436,3.2175651e-14 Z" id="Rectangle-15" stroke="url(#linearGradient-3)" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
