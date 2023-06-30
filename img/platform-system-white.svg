@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Product Icon / On Dark / 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icongraphy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-Icon-/-On-Dark-/-3">
+            <rect id="Rectangle-4-@fullwidth-@fullheight" x="0" y="0" width="36" height="36"></rect>
+            <path d="M18,17.881966 L31.763932,11 L18,4.11803399 L4.23606798,11 L18,17.881966 Z M2,11 L18,3 L34,11 L18,19 L2,11 Z" id="Rectangle-14-@fullwidth" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <polygon id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.699999988" points="28.7828666 16.5689964 29.9059594 16.0125088 34 18.0595291 18 26.0595291 2 18.0595291 6.11905823 16 7.23979108 16.5576676 4.23606798 18.0595291 18 24.9414951 31.763932 18.0595291"></polygon>
+            <polygon id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.699999988" points="28.7828666 23.5689964 29.9059594 23.0125088 34 25.0595291 18 33.0595291 2 25.0595291 6.11905823 23 7.23979108 23.5576676 4.23606798 25.0595291 18 31.9414951 31.763932 25.0595291"></polygon>
+        </g>
+    </g>
+</svg>
